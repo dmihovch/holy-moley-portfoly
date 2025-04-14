@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(
+        120deg,
+        #1a1a1f 0%,
+        #2a2139 25%,
+        #3a2d4f 50%,
+        #2a2139 75%,
+        #1a1a1f 100%
+    );
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #f4eaff;
+    font-family: "Ubuntu";
+}
